@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Database List</title>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/DatabaseList.js"></script>
+</head>
+<body>
+    <h1>List of Databases</h1>
+    <!-- this div is put at the top of the CivicPlus page -->
+    <div id="MyDbList" class="AppMessages" style="height: 1.5em; padding: 0; border-left:thin solid black; border-right:thin solid black;">DB101,DB111</div>
+    <!---->
+    <!-- start of html code for the app, goes into InfoAdvanced module item -->
+    <div id="AppMessageContainer" class="AppMessages" style="height: 1.5em; padding: 0; border-left:thin solid black; border-right:thin solid black;">App Name:  Database List, Author:  Paul Burtness, 763-323-5732</div>
+    <div id="DbList">
+        <style scoped>
+            #DbList {
+                width: 100%;
+                padding: 0;
+                margin: 0;
+                background-color: white;
+            }
+
+            .DbListItemContainer {
+                display: none;
+            }
+
+            .DbMenuContainer {
+                width: 100%;
+                padding: 0;
+                margin-bottom: 20px;
+                display: none;
+            }
+
+            .DbMenuItem {
+                float: left;
+                padding: 5px;
+            }
+
+            .DbMenuItem a {
+                text-decoration: none;
+                display: block;
+                padding: 3px;
+            }
+
+            .DbMenuItem a:hover {
+                background-color: #D3D3D3;
+            }
+
+            .DbListItem {
+                width: 100%;
+                padding: 0;
+                margin-bottom: 20px;
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: flex-start;
+                align-items: center;
+            }
+
+            .DbListLogo {
+                float: left;
+                width: 200px;
+                padding: 0;
+                margin: 0;
+            }
+
+            .DbListTitle {
+                float: left;
+                width: 200px;
+                padding-left: 10px;
+                padding-right: 10px;
+                text-align: left;
+            }
+
+            .DbListDescription {
+                float: left;
+                width: 300px;
+                padding-left: 10px;
+                padding-right: 10px;
+                text-align: left;
+            }
+
+            .ClearAll {
+                clear: both;
+            }
+        </style>
+        <div id="DbMenuTop" class="DbMenuContainer">
+            <div id="DbMenuTop_0_9" class="DbMenuItem"><a href="#" onclick="showItems(show_0_9, '0_9');">0 - 9</a></div>
+            <div id="DbMenuTop_A_E" class="DbMenuItem"><a href="#" onclick="showItems(show_A_E, 'A_E');">A - E</a></div>
+            <div id="DbMenuTop_F_J" class="DbMenuItem"><a href="#" onclick="showItems(show_F_J, 'F_J');">F - J</a></div>
+            <div id="DbMenuTop_K_O" class="DbMenuItem"><a href="#" onclick="showItems(show_K_O, 'K_O');">K - O</a></div>
+            <div id="DbMenuTop_P_T" class="DbMenuItem"><a href="#" onclick="showItems(show_P_T, 'P_T');">P - T</a></div>
+            <div id="DbMenuTop_U_Z" class="DbMenuItem"><a href="#" onclick="showItems(show_U_Z, 'U_Z');">U - Z</a></div>
+            <div id="DbMenuTop_ALL" class="DbMenuItem"><a href="#" onclick="showItems(show_ALL, 'ALL');">ALL</a></div>
+            <div class="ClearAll"></div>
+        </div>
+        <div id="DbMenuBottom" class="DbMenuContainer">
+            <div id="DbMenuBottom_0_9" class="DbMenuItem"><a href="#" onclick="showItems(show_0_9, '0_9');">0 - 9</a></div>
+            <div id="DbMenuBottom_A_E" class="DbMenuItem"><a href="#" onclick="showItems(show_A_E, 'A_E');">A - E</a></div>
+            <div id="DbMenuBottom_F_J" class="DbMenuItem"><a href="#" onclick="showItems(show_F_J, 'F_J');">F - J</a></div>
+            <div id="DbMenuBottom_K_O" class="DbMenuItem"><a href="#" onclick="showItems(show_K_O, 'K_O');">K - O</a></div>
+            <div id="DbMenuBottom_P_T" class="DbMenuItem"><a href="#" onclick="showItems(show_P_T, 'P_T');">P - T</a></div>
+            <div id="DbMenuBottom_U_Z" class="DbMenuItem"><a href="#" onclick="showItems(show_U_Z, 'U_Z');">U - Z</a></div>
+            <div id="DbMenuBottom_ALL" class="DbMenuItem"><a href="#" onclick="showItems(show_ALL, 'ALL');">ALL</a></div>
+            <div class="ClearAll"></div>
+        </div>
+    </div>
+    <div id="DbListItemTemplate" class="DbListItem">
+        <div class="DbListLogo"></div>
+        <div class="DbListTitle"></div>
+        <div class="DbListDescription"></div>
+        <div class="ClearAll"></div>
+    </div>
+    <div id="dialog"></div>
+    <!-- end of html code for the app -->
+</body>
+</html>

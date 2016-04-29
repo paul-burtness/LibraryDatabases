@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item>
+    <db_id>DB101</db_id>
+    <db_title>Title101</db_title>
+    <db_link>URL 1</db_link>
+    <db_logoid>1001</db_logoid>
+    <db_description>short description 1</db_description>
+  </item>
+  <item>
+    <db_id>DB102</db_id>
+    <db_title>Title102</db_title>
+    <db_link>URL 2</db_link>
+    <db_logoid>1002</db_logoid>
+    <db_description>short description 2</db_description>
+  </item>
+  <item>
+    <db_id>DB103</db_id>
+    <db_title>Title103</db_title>
+    <db_link>URL 3</db_link>
+    <db_logoid>1003</db_logoid>
+    <db_description>short description 3</db_description>
+  </item>
+</items>

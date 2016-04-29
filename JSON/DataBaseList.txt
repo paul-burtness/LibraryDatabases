@@ -1,0 +1,672 @@
+{
+  "items": {
+    "item": [
+      {
+        "db_id": "DB101",
+        "db_title": "3M Cloud Library",
+        "db_link": "http://ebook.3m.com/library/anokacounty/",
+        "db_logoid": "9059",
+        "db_description": "eBooks from 3M Cloud Library can be downloaded to your computer, e-book reader or mobile device."
+      },
+      {
+        "db_id": "DB102",
+        "db_title": "Academic Search Premier",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=aph",
+        "db_logoid": "9101",
+        "db_description": "A scholarly resource containing indexing and abstracts for more than 8,500 journals in a wide variety of disciplines, with full text for more than 4,600 of those titles."
+      },
+      {
+        "db_id": "DB103",
+        "db_title": "ALLDATA Online",
+        "db_link": "http://repair.edu.alldata.com/",
+        "db_logoid": "9102",
+        "db_description": "A comprehensive resource for automotive diagnostic and repair information.  AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB104",
+        "db_title": "Alt Health Watch",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=awh",
+        "db_logoid": "9103",
+        "db_description": "Offering full-text articles from more than 180 international journals and reports, this resource focuses on the many perspectives of complementary, holistic, and integrated approaches to health care and wellness."
+      },
+      {
+        "db_id": "DB105",
+        "db_title": "America's News Magazines",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/AMNP",
+        "db_logoid": "9104",
+        "db_description": "A collection of some of America's most popular news magazines, such as The Atlantic, Newsweek, and The National Review."
+      },
+      {
+        "db_id": "DB106",
+        "db_title": "Ancestry Library Edition",
+        "db_link": "http://ancestrylibrary.proquest.com/",
+        "db_logoid": "9105",
+        "db_description": "A comprehensive family history resource containing over 7 billion genealogical records from across the globe, including census records, passenger lists, and vital records. Users can also read helpful tips for conducting genealogical research, create family trees, and connect to and collaborate with other genealogists.  AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB107",
+        "db_title": "ArchiveGrid",
+        "db_link": "http://beta.worldcat.org/archivegrid/",
+        "db_logoid": "9106",
+        "db_description": "Provides access to nearly a million descriptions of detailed archival collections held by libraries, museums, historical societies, and archives worldwide."
+      },
+      {
+        "db_id": "DB108",
+        "db_title": "ArticleFirst",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=ArticleFirst&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of articles from the table of contents pages of over 12,000 journals."
+      },
+      {
+        "db_id": "DB109",
+        "db_title": "Biography in Context",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=BIC1",
+        "db_logoid": "9109",
+        "db_description": "A comprehensive biographical resource containing nearly a million entries on people from all disciplines, eras, and geographical locations."
+      },
+      {
+        "db_id": "DB110",
+        "db_title": "BookFLIX",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://bkflix.grolier.com/",
+        "db_logoid": "9110",
+        "db_description": "Scholastic BookFLIX is an online literacy resource that pairs classic video storybooks from Weston Woods with related nonfiction eBooks from Scholastic to build a love of reading and learning."
+      },
+      {
+        "db_id": "DB111",
+        "db_title": "Britannica Learning Zone",
+        "db_link": "http://proxy.elm4you.org/login?qurl=http://archive.school.eb.com/learningzone/welcome",
+        "db_logoid": "9111",
+        "db_description": "Interactive learning modules for pre-Kindergarten through Grade 2 that include drawing, reading, games, and geographical exploration."
+      },
+      {
+        "db_id": "DB112",
+        "db_title": "Britannica Online Academic Edition",
+        "db_link": "http://proxy.elm4you.org/login?url=http://search.eb.com",
+        "db_logoid": "9112",
+        "db_description": "Encyclopedia content plus news headlines, safe websites, engaging multimedia, and a customizable workspace."
+      },
+      {
+        "db_id": "DB113",
+        "db_title": "Britannica Online Public Library Edition",
+        "db_link": "http://proxy.elm4you.org/login?url=http://library.eb.com",
+        "db_logoid": "9113",
+        "db_description": "Access encyclopedias, dictionaries, atlases, and more with this all-encompassing reference source that is suitable for all ages and interests."
+      },
+      {
+        "db_id": "DB114",
+        "db_title": "Britannica Online School Edition",
+        "db_link": "http://proxy.elm4you.org/login?url=http://school.eb.com",
+        "db_logoid": "9114",
+        "db_description": "Provides access to four encyclopedias that ensure consistency with classroom topics and age-appropriate language.  For K-12."
+      },
+      {
+        "db_id": "DB115",
+        "db_title": "Business Source Premier",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=buh",
+        "db_logoid": "9115",
+        "db_description": "A research database with full-text access for more than 2100 journals in the fields of business and economics, as well as market research reports, industry reports, country reports, company profiles and SWOT analyses."
+      },
+      {
+        "db_id": "DB116",
+        "db_title": "CAMIO (Catalog of American Museum Images Online)",
+        "db_link": "http://camio.oclc.org.proxy.elm4you.org/",
+        "db_logoid": "9108",
+        "db_description": "Shows works of art from around the world, representing the collections of prominent museums including The Minneapolis Institute of Arts and Walker Art Center."
+      },
+      {
+        "db_id": "DB117",
+        "db_title": "Clase & Periodica",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=ClasePeriodica&done=referer",
+        "db_logoid": "9108",
+        "db_description": "Clase & Periodica is an index of Latin American journals, with Clase specializing in the social sciences and humanities, and Periodica specializing in the fields of science and technology."
+      },
+      {
+        "db_id": "DB118",
+        "db_title": "Consumer Health Complete",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=chc",
+        "db_logoid": "9116",
+        "db_description": "A resource to support the information needs of patients and to foster an overall understanding of health-related topics from mainstream medicine to the many perspectives of complementary, holistic, and integrated medicine."
+      },
+      {
+        "db_id": "DB119",
+        "db_title": "DISCovering Collection",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=DC",
+        "db_logoid": "9117",
+        "db_description": "A comprehensive reference source with essays, critical analyses, biographies, primary sources, creative works and multimedia elements for the core curriculum areas of literature, history, biographies, science, and social studies."
+      },
+      {
+        "db_id": "DB120",
+        "db_title": "Duluth News-Tribune",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/DNTB",
+        "db_logoid": "9195",
+        "db_description": "Digital archives of the Duluth News-Tribune (11/01/1995 - Current).  AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB121",
+        "db_title": "eBooks Minnesota",
+        "db_link": "http://ebooksmn.org/",
+        "db_logoid": "9065",
+        "db_description": "An online ebook collection for all Minnesotans.  The collection covers a wide variety of subjects for readers of all ages and features content from our state's independent publishers, including some of our best literature and nonfiction."
+      },
+      {
+        "db_id": "DB122",
+        "db_title": "EBSCO eBooks",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=nlebk",
+        "db_logoid": "9118",
+        "db_description": "An ebook collection that includes thousands of titles on a wide variety of subjects, including business and management, computers and technology, and literature."
+      },
+      {
+        "db_id": "DB123",
+        "db_title": "EBSCO MegaFILE",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=keh",
+        "db_logoid": "9119",
+        "db_description": "An online index/database that allows you to search for articles in every area of academic study and general interest subject area.  It searches the combined contents of Academic Search Premier, Business Source Premier, MasterFILE Premier and Regional Business News."
+      },
+      {
+        "db_id": "DB124",
+        "db_title": "Educator's Reference Complete",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=PROF",
+        "db_logoid": "9120",
+        "db_description": "A resource that focuses on educational principles, child development and psychology, and best practices in education."
+      },
+      {
+        "db_id": "DB125",
+        "db_title": "Electronic Books",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=Ebooks&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of records for more than 665,000 ebooks that have been cataloged by OCLC member libraries, including titles from NetLibrary and other providers."
+      },
+      {
+        "db_id": "DB126",
+        "db_title": "Electronic Collections Online A&I",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=ECO&done=referer",
+        "db_logoid": "9108",
+        "db_description": "A resource that provides bibliographic information for more than 5,000 electronic journals."
+      },
+      {
+        "db_id": "DB127",
+        "db_title": "ERIC",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=eric",
+        "db_logoid": "9121",
+        "db_description": "An index to journal articles and documents in education, containing full-text articles and over 1,000,000 citations. "
+      },
+      {
+        "db_id": "DB128",
+        "db_title": "Expanded Academic ASAP",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=EAIM",
+        "db_logoid": "9134",
+        "db_description": "A resource that includes scholarly journals, news magazines, and newspapers in the areas of art, humanities, social sciences, science, and technology."
+      },
+      {
+        "db_id": "DB129",
+        "db_title": "Gale Virtual Reference Library",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=GVRL",
+        "db_logoid": "9123",
+        "db_description": "A collection of full text reference sources in ebook format in the areas of business, careers, US and world history, humanities, science, sports, and the world."
+      },
+      {
+        "db_id": "DB130",
+        "db_title": "General Science Collection",
+        "db_link": "http://proxy.elm4you.org/login?qurl=http%3A%2F%2Finfotrac.galegroup.com%2Fitweb%2Fmnsminitex%3Fdb%3DSPJ.SP04",
+        "db_logoid": "9124",
+        "db_description": "Articles from the most popular scientific journals."
+      },
+      {
+        "db_id": "DB131",
+        "db_title": "GPO Monthly Catalog",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=GPO&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of all types of government documents, including Congressional reports, hearings, debates and records, judiciary materials, and executive documents."
+      },
+      {
+        "db_id": "DB132",
+        "db_title": "Green FILE",
+        "db_link": "http://www.greeninfoonline.com/",
+        "db_logoid": "9125",
+        "db_description": "A collection of scholarly, government and general-interest titles that includes content on the environmental effects of individuals, corporations and local/national governments, and what can be done at each level to minimize these effects.  Topics covered include global climate change, green building, pollution, sustainable agriculture, renewable energy, recycling, and more"
+      },
+      {
+        "db_id": "DB133",
+        "db_title": "Health Source: Consumer Edition",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=hxh",
+        "db_logoid": "9126",
+        "db_description": "A reference resource that provides access to nearly 80 full-text, consumer health magazines, pamphlets, as well as over 130 health reference books and nearly 10,000 Clinical Reference Systems reports (in English & Spanish)."
+      },
+      {
+        "db_id": "DB134",
+        "db_title": "Health Source: Nursing/Academic Edition",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=hch",
+        "db_logoid": "9127",
+        "db_description": "A resource that provides access to 550 scholarly full-text journals focusing on many medical disciplines, including strong coverage of nursing and allied health."
+      },
+      {
+        "db_id": "DB135",
+        "db_title": "Historical New York Times",
+        "db_link": "http://search.proquest.com/hnpnewyorktimes/ipbarcode?accountid=40273&groupid=58554",
+        "db_logoid": "9159",
+        "db_description": "Digitized and indexed editions of the New York Times since 1851, complete with all major news, feature and advertising sections."
+      },
+      {
+        "db_id": "DB136",
+        "db_title": "HelpNow!",
+        "db_link": "http://main.anoka.melsa.mn.brainfuse.com/authenticate.asp",
+        "db_logoid": "9133",
+        "db_description": "A resource that provides one-to-one tutoring to students in a variety of subjects, as well as practice tests, flashcards games, and virtual study rooms."
+      },
+      {
+        "db_id": "DB137",
+        "db_title": "Informe",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=IFME",
+        "db_logoid": "9135",
+        "db_description": "A collection of Hispanic magazines with full-text that covers business, health, technology, culture, current topics and other subjects."
+      },
+      {
+        "db_id": "DB138",
+        "db_title": "InfoTrac Junior Edition",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=STOJ",
+        "db_logoid": "9136",
+        "db_description": "A resource designed for middle school students which includes full-text articles from newspapers, magazines, and reference books."
+      },
+      {
+        "db_id": "DB139",
+        "db_title": "InfoTrac Student Edition",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=STOM",
+        "db_logoid": "9137",
+        "db_description": "A resource designed for high school students which includes full-text articles from magazines, newspapers, and reference books.  Also has historical images and maps."
+      },
+      {
+        "db_id": "DB140",
+        "db_title": "JobNow",
+        "db_link": "http://main.anoka.melsa.jobnow.brainfuse.com/",
+        "db_logoid": "9138",
+        "db_description": "A real-time career advice resource that helps job seekers pinpoint their desired career field and work with coaches to write resumes, cover letters, and prepare for interviews.  Sessions can be conducted in English or Spanish."
+      },
+      {
+        "db_id": "DB141",
+        "db_title": "Junior Reference Collection",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=JRC",
+        "db_logoid": "9139",
+        "db_description": "A collection of middle grade resources with more than 1700 full text entries covering science, literature, arts, biographies and general reference, and including primary source documents."
+      },
+      {
+        "db_id": "DB142",
+        "db_title": "Kids InfoBits",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=ITKE",
+        "db_logoid": "9140",
+        "db_description": "A resource that gives children easy access to magazines, reference books, and newspaper articles that have been selected just for their age group. Aimed at grades K-5."
+      },
+      {
+        "db_id": "DB143",
+        "db_title": "Kids Search",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=srck5",
+        "db_logoid": "9141",
+        "db_description": "A resource for students (K-8) to find magazine articles, biographies, images and more on a variety of topics."
+      },
+      {
+        "db_id": "DB144",
+        "db_title": "Lands and People",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://lp.grolier.com/",
+        "db_logoid": "9142",
+        "db_description": "An online resource geared for middle school students that explores the various cultures and countries of the world."
+      },
+      {
+        "db_id": "DB145",
+        "db_title": "Learning Express",
+        "db_link": "http://www.learningexpresshub.com/productengine/LELIndex.html#/learningexpresslibrary/libraryhome?AuthToken=C2BEF1AF-7FA8-4E14-89AA-58953A82525D",
+        "db_logoid": "9146",
+        "db_description": "A collection of resources to help with educational and career goals. Take courses and practice tests online, including computer skills (Word, Excel, Powerpoint, operating systems), occupational prep exams (civil service, law enforcement, military, EMS, postal services, firefighter), SAT, ACT, TOEFL, GED, adult basic skills, and U.S. citizenship.  CREATE A USERNAME AND PASSWORD TO ACCESS COURSES AND TESTS."
+      },
+      {
+        "db_id": "DB146",
+        "db_title": "Learning Express Computer Skills Center",
+        "db_link": "http://www.learningexpresshub.com/computer-skills-center/home?AuthToken=C2BEF1AF-7FA8-4E14-89AA-58953A82525D",
+        "db_logoid": "9146",
+        "db_description": "Interactive multimedia training tutorials to develop computer and internet skills. Available through the LearningExpress Library."
+      },
+      {
+        "db_id": "DB147",
+        "db_title": "Learning Express Job & Career Accelerator",
+        "db_link": "http://www.learningexpresshub.com/jobandcareeraccelerator/home?AuthToken=C2BEF1AF-7FA8-4E14-89AA-58953A82525D",
+        "db_logoid": "9146",
+        "db_description": "Test preparation and skill-building tools related to career and job readiness. Available through the LearningExpress Library."
+      },
+      {
+        "db_id": "DB148",
+        "db_title": "Library, Information Science & Technology Abstracts",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=lxh",
+        "db_logoid": "9147",
+        "db_description": "An index to more than 600 periodicals in the fields of librarianship, classification, cataloging, bibliometrics, online information retrieval, and information management, with coverage back to the mid-1960's."
+      },
+      {
+        "db_id": "DB149",
+        "db_title": "Literature Resource Center",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=LitRC",
+        "db_logoid": "9148",
+        "db_description": "A resource that includes biographies, bibliographies, and critical analysis of authors from every age and literary discipline."
+      },
+      {
+        "db_id": "DB150",
+        "db_title": "lynda.com",
+        "db_link": "http://lynda.com/portal/sip?org=anokacountylibrary.org",
+        "db_logoid": "9149",
+        "db_description": "Easy-to-use video tutorials to help you learn business, technical and creative skills -- anytime, anywhere."
+      },
+      {
+        "db_id": "DB151",
+        "db_title": "MAS Ultra-School Edition",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=ulh",
+        "db_logoid": "9150",
+        "db_description": "A comprehensive database designed for high school students that contains full-text for nearly 500 popular high school magazines, and includes biographies, primary source documents, photos, maps and flags, and reference books. Lexiles provided."
+      },
+      {
+        "db_id": "DB152",
+        "db_title": "MasterFILE Premier",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=f5h",
+        "db_logoid": "9151",
+        "db_description": "An all-encompassing database that contains full text for nearly 1,700 periodicals covering general reference, business, health, education, general science, multicultural issues and more. This database also contains full text for more than 500 reference books, over 107,000 primary source documents, and an image collection of nearly 600,000 photos, maps and flags."
+      },
+      {
+        "db_id": "DB153",
+        "db_title": "MEDLINE",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=MEDLINE&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of millions of records covering all areas of medicine, public health, nursing, dentistry, veterinary medicine, and the basic biomedical sciences."
+      },
+      {
+        "db_id": "DB154",
+        "db_title": "Middle Search Plus",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=mih",
+        "db_logoid": "9152",
+        "db_description": "A comprehensive database designed for middle school students that contains full-text for nearly 150 popular middle school magazines, and includes biographies, primary source documents, historical essays, photos, maps and flags, and reference books. Lexiles provided."
+      },
+      {
+        "db_id": "DB155",
+        "db_title": "Minnesota Digital Newspaper Hub",
+        "db_link": "http://newspapers.mnhs.org/web/mhsnews/web/imu.php?request=access",
+        "db_logoid": "9153",
+        "db_description": "The Minnesota Digital Newspaper Hub is a searchable website from the Minnesota Historical Society that makes hundreds of thousands of pages of Minnesota newspapers available online.  Coverage is from 1856-1924."
+      },
+      {
+        "db_id": "DB156",
+        "db_title": "Minnesota Library Information Network (MnLINK)",
+        "db_link": "https://www.mnlinkgateway.org/zportal/zengine?VDXaction=ZSearchAdvanced",
+        "db_logoid": "9154",
+        "db_description": "A catalog of books and other materials held in public and academic libraries across Minnesota."
+      },
+      {
+        "db_id": "DB157",
+        "db_title": "Minnesota Newspapers",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/NEWSBANK&s_sources=location&d_place=MN",
+        "db_logoid": "9104",
+        "db_description": "Electronic editions of the Duluth News-Tribune (1995 - Current), Rochester Post Bulletin (2006 - Current), St. Paul Pioneer Press (1988 - Current), and Star Tribune (1986 - Current).  AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB158",
+        "db_title": "Minnesota Reflections",
+        "db_link": "http://reflections.mndigital.org/index.php",
+        "db_logoid": "9155",
+        "db_description": "A collection of over 116,000 Minnesota history images, maps, and documents shared by cultural heritage organizations across the state."
+      },
+      {
+        "db_id": "DB159",
+        "db_title": "Morningstar Investment Research Center",
+        "db_link": "http://www.anokacountylibrary.org/research/morningstar-investment-research-center",
+        "db_logoid": "9156",
+        "db_description": "A resource with financial data on more than 30,000 stocks, mutual funds, and ETFs, and buy/sell guidance on more than 1,900 stocks and 2,100 mutual funds."
+      },
+      {
+        "db_id": "DB160",
+        "db_title": "National Geographic Kids",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=NGMK",
+        "db_logoid": "9157",
+        "db_description": "Access content from National Geographic Kids magazines, books, and images.  Geared towards 6-14 year olds."
+      },
+      {
+        "db_id": "DB161",
+        "db_title": "New Book of Popular Science",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://nbps.grolier.com/",
+        "db_logoid": "9158",
+        "db_description": "An online science and technology resource geared towards middle school students."
+      },
+      {
+        "db_id": "DB162",
+        "db_title": "The New York Times",
+        "db_link": "http://search.proquest.com/nytimes/news/fromDatabasesLayer?accountid=40273",
+        "db_logoid": "9159",
+        "db_description": "Articles from the New York Times. From 1980 to current.  One of the newspapers in ProQuest Newsstand Complete database."
+      },
+      {
+        "db_id": "DB163",
+        "db_title": "Next Reads",
+        "db_link": "http://www.nextreads.com/join.aspx?SID=e3edc17e-7dc4-44d4-9970-d95fe96c0891",
+        "db_logoid": "9160",
+        "db_description": "An email newsletter subscription service that provides reading suggestions in 21 reading interest categories. Fiction and nonfiction are included as well as teen titles."
+      },
+      {
+        "db_id": "DB164",
+        "db_title": "Novelist K-8 Plus",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=novpk8",
+        "db_logoid": "9162",
+        "db_description": "A comprehensive online readers' advisory tool designed especially for elementary and middle school students with fiction and nonfiction titles chosen specifically to support the school curriculum, as well as the pleasure reading needs of students."
+      },
+      {
+        "db_id": "DB165",
+        "db_title": "Novelist Plus",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=novplus",
+        "db_logoid": "9161",
+        "db_description": "A comprehensive online readers' advisory tool that allows you to search among hundreds of thousands of popular fiction and readable nonfiction titles, and also retrieve author read-alikes, book lists, book discussion guides, and more."
+      },
+      {
+        "db_id": "DB166",
+        "db_title": "OAIster",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=OAIster&done=referer",
+        "db_logoid": "9108",
+        "db_description": "A union catalog of digital resources that includes descriptive information about each resource."
+      },
+      {
+        "db_id": "DB167",
+        "db_title": "OneClickdigital",
+        "db_link": "http://anokamn.oneclickdigital.com/Home/Featured.aspx",
+        "db_logoid": "9067",
+        "db_description": "A database with thousands of downloadable fiction and nonfiction audiobooks for teens and adults.**You must create an account to use this service.  Download Media Manager software to a personal computer to be able to transfer books directly to a portable listening device with one click."
+      },
+      {
+        "db_id": "DB168",
+        "db_title": "OverDrive",
+        "db_link": "http://anoka.lib.overdrive.com/",
+        "db_logoid": "9070",
+        "db_description": "A service for downloading thousands of eBooks and audiobooks to your computer, e-book reader or mobile device.  Fiction and nonfiction titles available for children, teens, and adults."
+      },
+      {
+        "db_id": "DB169",
+        "db_title": "PapersFirst",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=PapersFirst&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of papers presented at conferences worldwide."
+      },
+      {
+        "db_id": "DB170",
+        "db_title": "Points of View Reference Center",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&site=pov",
+        "db_logoid": "9165",
+        "db_description": "A database that provides students with a balance of materials from all viewpoints on current issues, including more than 1,300 main essays, leading political magazines from both sides of the aisle, newspapers, radio & TV news transcripts, primary source documents, and reference books."
+      },
+      {
+        "db_id": "DB171",
+        "db_title": "Primary Search",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=prh",
+        "db_logoid": "9166",
+        "db_description": "A comprehensive database designed for elementary students that contains full-text for over 80 popular elementary magazines, and includes encyclopedias, dictionaries, photos, maps, and flags. Lexiles provided."
+      },
+      {
+        "db_id": "DB172",
+        "db_title": "ProceedingsFirst",
+        "db_link": "http://ezproxy.anokacountylibrary.org:2048/login?url=http://firstsearch.oclc.org/fsip?dbname=Proceedings&done=referer",
+        "db_logoid": "9108",
+        "db_description": "An index of worldwide conference proceedings."
+      },
+      {
+        "db_id": "DB173",
+        "db_title": "Professional Collection",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=sp02",
+        "db_logoid": "9167",
+        "db_description": "A selection of more than 300 full-text journals for educators that is updated daily and provides 24-hour access from school or home. "
+      },
+      {
+        "db_id": "DB174",
+        "db_title": "Professional Development Collection",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=tfh",
+        "db_logoid": "9168",
+        "db_description": "A specialized collection of education journals and educational reports for professional educators, professional librarians, and education researchers."
+      },
+      {
+        "db_id": "DB175",
+        "db_title": "ProQuest Newsstand Complete",
+        "db_link": "http://search.proquest.com/barcode?accountid=40273&groupid=58554",
+        "db_logoid": "9169",
+        "db_description": "A resource that allows you to search the full text of more than 1,000 U.S. and international news sources, including The Star Tribune, The Wall Street Journal, The Washington Post, The New York Times, The Chicago Tribune, The Los Angeles Times, and USA Today."
+      },
+      {
+        "db_id": "DB176",
+        "db_title": "ReferenceUSA",
+        "db_link": "http://referenceusa.com/",
+        "db_logoid": "9173",
+        "db_description": "A directory of U.S. companies."
+      },
+      {
+        "db_id": "DB177",
+        "db_title": "Regional Business News",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=bwh",
+        "db_logoid": "9175",
+        "db_description": "A resource that provides full-text articles for nearly 100 regional business publications."
+      },
+      {
+        "db_id": "DB178",
+        "db_title": "Research in Context",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=MSIC",
+        "db_logoid": "9176",
+        "db_description": "Reference works, biographies, magazine and journal articles, primary source documents, and multimedia.  For middle-school students."
+      },
+      {
+        "db_id": "DB179",
+        "db_title": "Rochester Post Bulletin",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/ZMFI",
+        "db_logoid": "9194",
+        "db_description": "Digital archives of the Rochester Post Bulletin.  AVAILBLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB180",
+        "db_title": "SAMS Photofacts",
+        "db_link": "http://www.samswebsite.com/photofact/pf_search.asp",
+        "db_logoid": "9189",
+        "db_description": "A collection of schematics, parts lists, and other technical data for over 200,000 consumer electronic devices from the 1940s to today.  AVAILABLE ONLY ON WORKSTATIONS WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB181",
+        "db_title": "Science Reference Center",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=ehost&defaultdb=sch",
+        "db_logoid": "9190",
+        "db_description": "A research database that provides access to full-text science oriented content."
+      },
+      {
+        "db_id": "DB182",
+        "db_title": "Searchasaurus",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=sas",
+        "db_logoid": "9191",
+        "db_description": "A kid-friendly resource that helps elementary students browse and search for content from the Primary Search database, which includes the American Heritage Children's Dictionary, Funk & Wagnalls New World Encyclopedia, the EBSCO Encyclopedia of Animals, and dozens of kid-friendly magazines."
+      },
+      {
+        "db_id": "DB183",
+        "db_title": "Small Engine Repair",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=serrc",
+        "db_logoid": "9192",
+        "db_description": "A collection of repair manuals covering ATVs, generators and other small engines, marine/boat motors, motorcycles, outdoor power equipment, personal water craft, snowmobiles and tractors. Clymer and Intertec manuals available in ebook format."
+      },
+      {
+        "db_id": "DB184",
+        "db_title": "St. Paul Pioneer Press",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/PIPB",
+        "db_logoid": "9193",
+        "db_description": "Digital archives of the St. Paul Pioneer Press newspaper (01/01/1988 - Current).   AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB185",
+        "db_title": "Star Tribune",
+        "db_link": "http://infoweb.newsbank.com/signin/MELSAAnokaCounty/STMB",
+        "db_logoid": "9196",
+        "db_description": "Digital archives of the Star Tribune newspaper (01/01/1986 - Current).  AVAILABLE ONLY WITHIN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB186",
+        "db_title": "Student Research Center",
+        "db_link": "http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=s8959465&profile=src",
+        "db_logoid": "9197",
+        "db_description": "A resource designed for middle and high school students with magazine and journal articles, reference materials, primary source documents, photographs, and more."
+      },
+      {
+        "db_id": "DB187",
+        "db_title": "Student Resources in Context",
+        "db_link": "http://infotrac.galegroup.com/itweb/anoka_main_r?db=SRC-1",
+        "db_logoid": "9198",
+        "db_description": "A resource designed for middle and high school students to help them with their homework and in-depth research assignments. It includes reference works, biographies, essays, overviews, primary works, images, and periodical articles."
+      },
+      {
+        "db_id": "DB188",
+        "db_title": "Study for the U.S. Citizenship Test",
+        "db_link": "http://www.uscitizenship.org/",
+        "db_logoid": "9199",
+        "db_description": "A resource for people studying for the U.S. citizenship test. It include sample dictation sentences, interview questions, and practice tests in various languages.  AVAILABLE ONLY ON WORKSTATIONS IN OUR BUILDINGS"
+      },
+      {
+        "db_id": "DB189",
+        "db_title": "Transparent Language Online",
+        "db_link": "http://www.library.transparent.com/anokacomn/flashcards/login?continue=/anokacomn/flashcards/",
+        "db_logoid": "9200",
+        "db_description": "A language-learning online resource that builds listening, reading, speaking, and writing skills.  More than 80 languages are available, as well as ESL for Spanish, Arabic, Portuguese, Korean, Chinese, and Japanese speakers."
+      },
+      {
+        "db_id": "DB190",
+        "db_title": "USA Today",
+        "db_link": "http://search.proquest.com/usatoday/news/fromDatabasesLayer?accountid=40273",
+        "db_logoid": "9201",
+        "db_description": "Articles from USA Today. One of the newspapers in ProQuest Newsstand Complete database."
+      },
+      {
+        "db_id": "DB191",
+        "db_title": "The Wall Street Journal",
+        "db_link": "http://search.proquest.com/wallstreetjournal/news/fromDatabasesLayer?accountid=40273",
+        "db_logoid": "9202",
+        "db_description": "Articles from The Wall Street Journal. One of the newspapers in ProQuest Newsstand Complete database."
+      },
+      {
+        "db_id": "DB192",
+        "db_title": "The Washington Post",
+        "db_link": "http://search.proquest.com/washingtonpost/news/fromDatabasesLayer?accountid=40273",
+        "db_logoid": "9203",
+        "db_description": "Articles from The Washington Post. One of the newspapers in ProQuest Newsstand Complete database."
+      },
+      {
+        "db_id": "DB193",
+        "db_title": "World Vital Records",
+        "db_link": "http://www.worldvitalrecords.com/libraryaccess.aspx",
+        "db_logoid": "9210",
+        "db_description": "World Vital Records is designed for users who are either just beginning their family research or who after years of work want to discover more of their past. A massive library with billions of Family History and Genealogy records, and millions of family trees. Access key collections: U.S. Federal Census images and indexes from 1790 to 1940; military records; birth, marriage and death records; enhanced Social Security Death Index (SSDI) records; millions of newspaper articles.  This database has unique and exclusive local and world collections."
+      },
+      {
+        "db_id": "DB194",
+        "db_title": "WorldCat",
+        "db_link": "http://anokacountylibrary.on.worldcat.org/discovery",
+        "db_logoid": "9212",
+        "db_description": "A searchable catalog of books, web resources and other materials worldwide."
+      },
+      {
+        "db_id": "DB195",
+        "db_title": "Zinio for Libraries",
+        "db_link": "http://www.rbdigital.com/anokamn/zinio",
+        "db_logoid": "9071",
+        "db_description": "Digital copies of more than 125 popular magazines."
+      }
+    ],
+    "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+  }
+}
