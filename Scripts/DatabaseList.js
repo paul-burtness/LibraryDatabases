@@ -1,9 +1,9 @@
 ﻿//global
 //constants used in app
-//var dbImagesURL = "http://www.anokacounty.us/ImageRepository/Document?documentID="; //dev URL
-var dbImagesURL = "/ImageRepository/Document?documentID="; //prod URL
-//var dbJsonURL = "JSON/DatabaseList.txt";  //dev URL
-var dbJsonURL = "/DocumentCenter/View/9342";  //prod URL
+var dbImagesURL = "http://www.anokacounty.us/ImageRepository/Document?documentID="; //dev URL
+//var dbImagesURL = "/ImageRepository/Document?documentID="; //prod URL
+var dbJsonURL = "JSON/DatabaseList.txt";  //dev URL
+//var dbJsonURL = "/DocumentCenter/View/9342";  //prod URL
 //used in html menu
 var show_0_9 = [];
 var show_A_E = [];

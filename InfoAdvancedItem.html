@@ -38,20 +38,20 @@
                 padding: 5px;
             }
 
-            .DbMenuItem a {
-                text-decoration: none;
-                display: block;
-                padding: 3px;
-            }
+                .DbMenuItem a {
+                    text-decoration: none;
+                    display: block;
+                    padding: 3px;
+                }
 
-            .DbMenuItem a:hover {
-                background-color: #D3D3D3;
-            }
+                    .DbMenuItem a:hover {
+                        background-color: #D3D3D3;
+                    }
 
             .DbListItem {
                 width: 100%;
                 padding: 0;
-                margin-bottom: 20px;
+                margin-bottom: 40px;
                 display: flex;
                 flex-flow: row wrap;
                 justify-content: flex-start;
@@ -65,19 +65,22 @@
                 margin: 0;
             }
 
-            .DbListTitle {
+            .DbListInfo {
                 float: left;
-                width: 200px;
-                padding-left: 10px;
-                padding-right: 10px;
+                min-width: 200px;
+                max-width: 310px;
+                padding: 0;
+                margin: 0;
+            }
+
+            .DbListTitle {
+                font-size: larger;
+                padding: 5px 10px 10px 20px;
                 text-align: left;
             }
 
             .DbListDescription {
-                float: left;
-                width: 300px;
-                padding-left: 10px;
-                padding-right: 10px;
+                padding: 0 10px 0 20px;
                 text-align: left;
             }
 
@@ -108,8 +111,10 @@
     </div>
     <div id="DbListItemTemplate" class="DbListItem">
         <div class="DbListLogo"></div>
-        <div class="DbListTitle"></div>
-        <div class="DbListDescription"></div>
+        <div class="DbListInfo">
+            <div class="DbListTitle"></div>
+            <div class="DbListDescription"></div>
+        </div>
         <div class="ClearAll"></div>
     </div>
     <div id="dialog"></div>
